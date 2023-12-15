@@ -1,8 +1,8 @@
 - 👋 Salut, je suis @FMIVE et je commence le
  codage à 55 ans, c'est un défi.
 - 👀 Je suis intéressé par le front-end pour 
- le moment. Peut-être Android plus tard. 
-- 🌱 J'apprends actuellement le HTML/Css
+ le moment. 
+- 🌱 J'apprends actuellement le HTML/Css PHP Wordpress.
 - 💞️ Je cherche à apprendre sans cesse.
 - 📫 Comment me joindre... fmive56@gmail.com
 
